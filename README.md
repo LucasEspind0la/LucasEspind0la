@@ -41,9 +41,6 @@
   
   <!-- Produtividade, Design & Organização -->
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img alt="Google Docs" src="https://img.shields.io/badge/-Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" />
-  <img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img alt="CorelDRAW" src="https://img.shields.io/badge/-CorelDRAW-FF6600?style=for-the-badge&logo=coreldraw&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="Office" src="https://img.shields.io/badge/-Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   
