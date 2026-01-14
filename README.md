@@ -72,8 +72,6 @@
 
 </div>
 
-> Todos os projetos estão documentados com imagens na pasta `impressoes` e prontos para demonstração!
-
 ---
 
 ### 📬 Entre em contato!
