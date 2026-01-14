@@ -18,7 +18,7 @@
 
 > 🔹 Atualmente focado em **Java**, **JavaScript** e boas práticas de desenvolvimento<br>
 > 🔹 Criando sistemas simples, funcionais e com boa UX/UI<br>
-> 🔹 Em busca do meu **primeiro estágio em programação** — apaixonado por resolver problemas com código!
+> 🔹 Em busca do meu **primeiro estágio em programação** 
 
 ---
 
@@ -32,7 +32,6 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   
   <!-- Frameworks / Bibliotecas -->
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Swing" src="https://img.shields.io/badge/-Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
   <!-- Frontend -->
@@ -42,7 +41,6 @@
   <!-- Ferramentas de Dev -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   
   <!-- Produtividade, Design & Organização -->
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
@@ -96,7 +94,3 @@
   <img src="https://komarev.com/ghpvc/?username=LucasEspind0la&label=Visualizações+do+perfil&color=FF6B35&style=flat-square" alt="contador de visitas" />
 </div>
 
----
-
-### 🎉 Obrigado por passar por aqui!
-> Se você gostou, deixe um ⭐ em algum dos meus projetos ou me mande uma mensagem! Estou sempre aberto a novas oportunidades e colaborações.#LucasEspind0la
