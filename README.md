@@ -35,31 +35,6 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasEspind0la&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEspind0la&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🐍 Minha Cobrinha do GitHub (Baseada nos meus commits!)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LucasEspind0la/LucasEspind0la/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 🔥 Streak de Contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasEspind0la&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
-
----
-
 ### 📦 Projetos em Destaque
 
 <div align="center">
