@@ -40,7 +40,6 @@
   
   <!-- Ferramentas de Dev -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   
   <!-- Produtividade, Design & Organização -->
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
