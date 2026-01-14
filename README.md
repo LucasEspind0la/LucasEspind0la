@@ -44,12 +44,13 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   
-  <!-- Produtividade & Design -->
+  <!-- Produtividade, Design & Organização -->
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img alt="Google Docs" src="https://img.shields.io/badge/-Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" />
+  <img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img alt="CorelDRAW" src="https://img.shields.io/badge/-CorelDRAW-FF6600?style=for-the-badge&logo=coreldraw&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="Office" src="https://img.shields.io/badge/-Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-  <img alt="CorelDRAW" src="https://img.shields.io/badge/-CorelDRAW-FF6600?style=for-the-badge&logo=coreldraw&logoColor=white" />
   
   <!-- SO -->
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
