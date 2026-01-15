@@ -24,15 +24,15 @@
 ### 💻 Tecnologias & Ferramentas
 
 <div align="left">
-  <a href="#"><img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Excel"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/java/ED8B00" height="40" alt="Java"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/openjdk/000000" height="40" alt="JavaFX"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/git/F05032  " height="40" alt="Git"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/microsoftexcel/217346  " height="40" alt="Excel"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/linux/FCC624  " height="40" alt="Linux"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/java/ED8B00  " height="40" alt="Java"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/openjdk/000000  " height="40" alt="JavaFX"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/html5/E34F26  " height="40" alt="HTML5"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/css3/1572B6  " height="40" alt="CSS3"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/javascript/F7DF1E  " height="40" alt="JavaScript"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/figma/F24E1E  " height="40" alt="Figma"/></a>
 </div>
 ---
 
