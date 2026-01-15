@@ -1,6 +1,6 @@
 <!-- 
   👋 README do perfil de Lucas Espindola
-  GitHub: https://github.com/LucasEspind0la  
+  GitHub: https://github.com/LucasEspind0la    
 -->
 
 <h1 align="center">
@@ -14,15 +14,26 @@
 
 ---
 
-### 🌟 Sobre mim
+### 👨‍💻 Sobre mim
 
-> 🔹 Atualmente focado em **Java**, **JavaScript** e boas práticas de desenvolvimento<br>
-> 🔹 Criando sistemas simples, funcionais e com boa UX/UI<br>
-> 🔹 Em busca do meu **primeiro estágio em programação** 
+> 🔹 Focado em **Java**, **JavaScript** e boas práticas de desenvolvimento  
+> 🔹 Crio sistemas simples, funcionais e com **boa UX/UI**  
+> 🔹 Em busca do meu **primeiro estágio em programação**  
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🎨 Design & Prototipagem (Figma)
+
+Antes de codificar, desenho a experiência do usuário no **Figma**.  
+Confira meus protótipos com paletas como **preto/dourado** e **roxo/vermelho**:
+
+🔗 [Visualizar meus projetos no Figma](https://www.figma.com/@seu-usuario-aqui)
+
+> ✨ *Design pensado para funcionalidade e estética moderna.*
+
+---
+
+### 💻 Tecnologias & Ferramentas
 
 <p align="center">
   <!-- Linguagens -->
@@ -30,23 +41,17 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   
-  <!-- Frameworks / Bibliotecas -->
-  
   <!-- Frontend -->
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   
-  <!-- Ferramentas de Dev -->
+  <!-- Dev Tools -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  
-  <!-- Produtividade, Design & Organização -->
-  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  
-  <!-- SO -->
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   
+  <!-- Design -->
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
 
 ---
 
@@ -56,15 +61,17 @@
 
 | Projeto | Tecnologia | Descrição |
 |---------|------------|-----------|
-| [Flow](https://github.com/LucasEspind0la/flow) | Java + Swing | Sistema de gestão minimalista com cadastro de clientes |
-| [Task Manager](https://github.com/LucasEspind0la/ListaDeTarefas-Java) | Java | Aplicativo de lista de tarefas com interface gráfica |
-| [Cadastro de Clientes](https://github.com/LucasEspind0la/CadastroDeClientes) | HTML/JS | Formulário de registro com validação |
+| [Flow](https://github.com/LucasEspind0la/flow) | Java + Swing | Sistema minimalista de cadastro de clientes |
+| [Task Manager](https://github.com/LucasEspind0la/ListaDeTarefas-Java) | Java + JavaFX | Lista de tarefas com interface gráfica moderna |
+| [Cadastro de Clientes](https://github.com/LucasEspind0la/CadastroDeClientes) | HTML/JS | Formulário com validação e layout responsivo |
 
 </div>
 
+> 🎥 *Muitos projetos incluem demonstrações em vídeo ou GIFs no README!*
+
 ---
 
-### 📬 Entre em contato!
+### 📬 Contato
 
 <p align="center">
   <a href="mailto:lucas.espindola.dev@gmail.com">
@@ -80,9 +87,6 @@
 
 ---
 
-### 🧭 Visite meu perfil!
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasEspind0la&label=Visualizações+do+perfil&color=FF6B35&style=flat-square" alt="contador de visitas" />
 </div>
-
