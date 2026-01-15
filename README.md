@@ -26,19 +26,12 @@
 <div align="left">
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" alt="C++"/>
-
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3"/>
-
   <!-- Backend / Frameworks -->
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square" alt="Spring"/>
   <img src="https://img.shields.io/badge/JavaFX-000000?logo=openjdk&logoColor=white&style=flat-square" alt="JavaFX"/>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" alt="Flask"/>
-
   <!-- Ferramentas -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"/>
   <
