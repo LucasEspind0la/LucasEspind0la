@@ -9,7 +9,7 @@
 
 <p align="center">
   💻 Full Stack Developer in Training<br>
-  📍 Recife-PE | 🌐 <a href="https://www.linkedin.com/in/lucas-espindola/">LinkedIn</a> 
+  📍 Recife-PE 
 
 ---
 
