@@ -9,8 +9,7 @@
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Full Stack Developer in Training<br>
-  📍 Recife-PE | 🌐 <a href="https://www.linkedin.com/in/lucas-espindola/">LinkedIn</a> | 📬 lucas.espindola.dev@gmail.com
-</p>
+  📍 Recife-PE | 🌐 <a href="https://www.linkedin.com/in/lucas-espindola/">LinkedIn</a> 
 
 ---
 
