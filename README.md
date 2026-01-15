@@ -24,17 +24,16 @@
 ### 💻 Tecnologias & Ferramentas
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"/>
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaFX-000000?logo=openjdk&logoColor=white&style=flat-square" alt="JavaFX"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" alt="Figma"/>
+  <a href="#"><img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Excel"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/java/ED8B00" height="40" alt="Java"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/openjdk/000000" height="40" alt="JavaFX"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma"/></a>
 </div>
-
 ---
 
 ### 📦 Projetos em Destaque
