@@ -22,17 +22,6 @@
 
 ---
 
-### 🎨 Design & Prototipagem (Figma)
-
-Antes de codificar, desenho a experiência do usuário no **Figma**.  
-Confira meus protótipos com paletas como **preto/dourado** e **roxo/vermelho**:
-
-🔗 [Visualizar meus projetos no Figma](https://www.figma.com/@seu-usuario-aqui)
-
-> ✨ *Design pensado para funcionalidade e estética moderna.*
-
----
-
 ### 💻 Tecnologias & Ferramentas
 
 <p align="center">
