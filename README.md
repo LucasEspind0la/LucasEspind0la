@@ -41,9 +41,9 @@
 
 | Projeto | Tecnologia | Descrição |
 |---------|------------|-----------|
-| [Gerenciador de Estoque](https://github.com/LucasEspind0la/GerenciadorEstoque) | Java | Sistema simples para lojas pequenas. Permite cadastrar produtos, atualizar estoque e salvar dados em CSV. Ideal para controle diário. |
-| [Planejador Financeiro](https://github.com/LucasEspind0la/PlanejadorFinanceiro-Java) | Java | Calcula orçamento, despesas e metas financeiras. Interface console com validação de entrada e relatórios claros. |
-| [Cadastro de Clientes](https://github.com/LucasEspind0la/CadastroDeClientes-Java) | HTML + JS | Formulário responsivo com validação em tempo real (CPF, e-mail, telefone). Design limpo e funcional para uso em negócios locais. |
+| [Gerenciador de Estoque](https://github.com/LucasEspind0la/GerenciadorEstoque) | Java | Sistema para lojas pequenas: cadastro de produtos, controle de estoque e persistência em CSV. |
+| [Planejador Financeiro](https://github.com/LucasEspind0la/PlanejadorFinanceiro-Java) | Java | Gerencia receitas, despesas e metas financeiras com interface console clara e validação de dados. |
+| [Cadastro de Clientes](https://github.com/LucasEspind0la/CadastroDeClientes-Java) | Java | Sistema minimalista para registro de clientes (nome, CPF, telefone, endereço) com foco em usabilidade e dados organizados. |
 
 </div>
 
