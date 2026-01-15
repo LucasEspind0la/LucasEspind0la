@@ -41,9 +41,9 @@
 
 | Projeto | Tecnologia | Descrição |
 |---------|------------|-----------|
-| [Flow](https://github.com/LucasEspind0la/flow) | Java + Swing | Sistema minimalista de cadastro de clientes |
-| [Task Manager](https://github.com/LucasEspind0la/ListaDeTarefas-Java) | Java + JavaFX | Lista de tarefas com interface gráfica moderna |
-| [Cadastro de Clientes](https://github.com/LucasEspind0la/CadastroDeClientes) | HTML/JS | Formulário com validação e layout responsivo |
+| [Gerenciador de Estoque](https://github.com/LucasEspind0la/GerenciadorEstoque) | Java | Sistema simples para lojas pequenas. Permite cadastrar produtos, atualizar estoque e salvar dados em CSV. Ideal para controle diário. |
+| [Planejador Financeiro](https://github.com/LucasEspind0la/PlanejadorFinanceiro-Java) | Java | Calcula orçamento, despesas e metas financeiras. Interface console com validação de entrada e relatórios claros. |
+| [Cadastro de Clientes](https://github.com/LucasEspind0la/CadastroDeClientes-Java) | HTML + JS | Formulário responsivo com validação em tempo real (CPF, e-mail, telefone). Design limpo e funcional para uso em negócios locais. |
 
 </div>
 
