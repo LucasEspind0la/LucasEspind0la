@@ -4,7 +4,7 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas!;Estudante+de+Analise+e+Desenvolvimento+de+Sistemas;Buscando+meu+primeiro+est%C3%A1gio+em+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas!;Estudante+de+Desenvolvimento+de+Sistemas;Buscando+meu+primeiro+est%C3%A1gio+em+Java" alt="Typing SVG" />
 </h1>
 
 <p align="center">
