@@ -56,7 +56,6 @@
 
 </div>
 
-> 🎥 *Muitos projetos incluem demonstrações em vídeo ou GIFs no README!*
 
 ---
 
