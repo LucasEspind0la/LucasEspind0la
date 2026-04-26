@@ -30,6 +30,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/> 
+  <ing sec="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&style=for-the-badge" alt="Spring"/>
+
+
+
+
+
 </div>
 
 ### 📦 Projetos em Destaque
