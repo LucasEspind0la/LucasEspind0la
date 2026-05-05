@@ -24,7 +24,7 @@ public class LucasEspindola {
 
     public void sobreMim() {
         System.out.println("💡 Transformo problemas reais em soluções funcionais");
-        System.out.println("🎯 Foco em código limpo, boas práticas e UX/UI");
+        System.out.println("🎯 Foco em código limpo e boas práticas");
         System.out.println("🚀 Sempre aprendendo e evoluindo a cada projeto");
         System.out.println("🤝 Aberto a colaborações e novos desafios");
     }
