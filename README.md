@@ -3,7 +3,7 @@
   GitHub: https://github.com/LucasEspind0la
 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas+Espindola!;Estudante+de+Desenvolvimento+de+Sistemas;Buscando+meu+primeiro+est%C3%A1gio;Apaixonado+por+c%C3%B3digo+e+solu%C3%A7%C3%B5es" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas+Espindola!;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Java+em+formação;Buscando+meu+primeiro+est%C3%A1gio;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer%20in%20Training-FF6B35?style=for-the-badge&logoColor=white" />
@@ -13,26 +13,42 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=header&text=&fontSize=0" />
 </div>
 👨‍💻 Sobre mim
+java
+Copy
 
-    🔹 Focado em Java, JavaScript e boas práticas de desenvolvimento
-    🔹 Crio sistemas simples, funcionais e com boa UX/UI
-    🔹 Em busca do meu primeiro estágio em programação
-    🔹 Sempre aprendendo e evoluindo a cada linha de código
+public class LucasEspindola {
+    private String nome = "Lucas Espindola";
+    private String curso = "Análise e Desenvolvimento de Sistemas";
+    private String local = "Recife, PE 🇧🇷";
+    private String objetivo = "Primeiro estágio em programação";
+
+    private String[] stack = {"Java", "Spring Boot", "JavaScript", "PostgreSQL"};
+    private String[] softSkills = {"Proatividade", "Trabalho em equipe", "Resolução de problemas"};
+
+    public void sobreMim() {
+        System.out.println("💡 Transformo problemas reais em soluções funcionais");
+        System.out.println("🎯 Foco em código limpo, boas práticas e UX/UI");
+        System.out.println("🚀 Sempre aprendendo e evoluindo a cada projeto");
+        System.out.println("🤝 Aberto a colaborações e novos desafios");
+    }
+}
+
+    🔹 Desenvolvedor Java em formação, com projetos práticos que resolvem problemas reais
+    🔹 Crio sistemas simples, funcionais e com boa UX/UI — do console à persistência de dados
+    🔹 Experiência com Spring Boot, PostgreSQL, Git e Linux em projetos pessoais
+    🔹 Em busca do meu primeiro estágio em programação para crescer junto com um time
+    🔹 Acredito que o melhor código é aquele que resolve o problema e é fácil de manter
 
 📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasEspind0la&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEspind0la&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasEspind0la&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEspind0la&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&cache_seconds=86400"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasEspind0la&theme=dark&background=0D1117&border=FF6B35&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasEspind0la&theme=dark&background=0D1117&border=FF6B35&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=C9D1D9&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasEspind0la&theme=redical&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&hide_border=true&area=true&area_color=FF6B3520" alt="Activity Graph" />
-</div>
-🏆 Conquistas
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LucasEspind0la&theme=juicyfresh&no-frame=true&row=1&column=7&margin-w=10&no-bg=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasEspind0la&theme=redical&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&hide_border=true&area=true&area_color=FF6B3520&cache_seconds=86400" alt="Activity Graph" />
 </div>
 💻 Tecnologias & Ferramentas
 <div align="center">
