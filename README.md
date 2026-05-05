@@ -13,8 +13,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=header&text=&fontSize=0" />
 </div>
 👨‍💻 Sobre mim
-java
-Copy
 
 public class LucasEspindola {
     private String nome = "Lucas Espindola";
@@ -27,12 +25,11 @@ public class LucasEspindola {
 
     public void sobreMim() {
         System.out.println("💡 Transformo problemas reais em soluções funcionais");
-        System.out.println("🎯 Foco em código limpo, boas práticas e UX/UI");
+        System.out.println("🎯 Foco em código limpo e boas práticas");
         System.out.println("🚀 Sempre aprendendo e evoluindo a cada projeto");
         System.out.println("🤝 Aberto a colaborações e novos desafios");
     }
 }
-
     🔹 Desenvolvedor Java em formação, com projetos práticos que resolvem problemas reais
     🔹 Crio sistemas simples, funcionais e com boa UX/UI — do console à persistência de dados
     🔹 Experiência com Spring Boot, PostgreSQL, Git e Linux em projetos pessoais
