@@ -2,6 +2,8 @@
   👋 README do perfil de Lucas Espindola
   GitHub: https://github.com/LucasEspind0la
 -->
+<!-- Banner superior animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=header&text=&fontSize=0" />
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas!;Estudante+de+Desenvolvimento+de+Sistemas;Buscando+meu+primeiro+est%C3%A1gio" alt="Typing SVG" />
 </h1>
@@ -9,18 +11,20 @@
   <img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer%20in%20Training-FF6B35?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/📍%20Recife--PE-2D3748?style=for-the-badge&logoColor=white" />
 </p>
-👨‍💻 Sobre mim
-java
-Copy
+<!-- Divisor animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 
 public class LucasEspindola {
-    private String nome = "Lucas Espindola";
-    private String curso = "Análise e Desenvolvimento de Sistemas";
-    private String local = "Recife, PE 🇧🇷";
-    private String objetivo = "Primeiro estágio em programação";
 
-    private String[] stack = {"Java", "Spring Boot", "JavaScript", "PostgreSQL"};
-    private String[] softSkills = {"Proatividade", "Trabalho em equipe", "Resolução de problemas"};
+    private String nome = "Lucas Espindola";
+    
+    private String curso = "Análise e Desenvolvimento de Sistemas";
+    
+    private String local = "Recife, PE 🇧🇷";
+    
+    private String objetivo = "Primeiro estágio em programação";
 
     public void sobreMim() {
         System.out.println("💡 Transformo problemas reais em soluções funcionais");
@@ -30,6 +34,18 @@ public class LucasEspindola {
     }
 }
 
+<!-- Divisor animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasEspind0la&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEspind0la&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&hide_border=true"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasEspind0la&theme=dark&background=0D1117&border=FF6B35&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=C9D1D9" alt="GitHub Streak" />
+</div>
+<!-- Divisor animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 🚀 Linguagens
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java"/>
@@ -52,12 +68,16 @@ public class LucasEspindola {
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma"/>
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" alt="Excel"/>
 </div>
+<!-- Divisor animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 📦 Projetos em Destaque
 Table
 Projeto	Tecnologia	Descrição
 Gerenciador de Estoque	Java	Sistema para lojas pequenas: cadastro de produtos, controle de estoque e persistência em CSV.
 Planejador Financeiro	Java	Gerencia receitas, despesas e metas financeiras com interface console clara e validação de dados.
 Cadastro de Clientes	Java	Sistema minimalista para registro de clientes (nome, CPF, telefone, endereço) com foco em usabilidade.
+<!-- Divisor animado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 📬 Contato
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-espindola/">
@@ -73,3 +93,5 @@ Cadastro de Clientes	Java	Sistema minimalista para registro de clientes (nome, C
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasEspind0la&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=FF6B35&style=for-the-badge" alt="contador de visitas" />
 </div>
+<!-- Banner inferior animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=footer&text=&fontSize=0" />
