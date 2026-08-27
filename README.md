@@ -1,7 +1,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Lucas%20Esp%C3%ADndola&fontSize=50&fontColor=00D26A&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Angular&descSize=18&descAlignY=55&descColor=C9D1D9" />
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=00D26A&center=true&vCenter=true&width=650&lines=Construindo+sistemas+backend+escal%C3%A1veis;Criando+experi%C3%AAncias+frontend+responsivas;Aprendendo+todos+os+dias+para+entregar+c%C3%B3digo+melhor" alt="Typing SVG" />
+  
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/ADS-ED8B00?style=for-the-badge&logo=graduationcap&logoColor=white" />
