@@ -1,3 +1,4 @@
+
 <!--
   👋 README do perfil de Lucas Espíndola
   GitHub: https://github.com/LucasEspind0la
@@ -14,23 +15,16 @@
 <!-- Divisor -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 🧑‍💻 Sobre Mim
-java
 
-public class LucasEspindola {
+    👤 Nome: Lucas Espíndola de Mello
+    📍 Localização: Recife, PE 🇧🇷
+    🎓 Formação: Análise e Desenvolvimento de Sistemas (ADS)
+    🎯 Objetivo: Estágio ou primeira oportunidade em programação
 
-    private String nome = "Lucas Espíndola de Mello";
-    private String local = "Recife, PE 🇧🇷";
-    private String formacao = "Análise e Desenvolvimento de Sistemas (ADS)";
-    private String objetivo = "Estágio ou primeira oportunidade em programação";
-
-    public void sobreMim() {
-        System.out.println("💡 Transformo problemas reais em soluções funcionais");
-        System.out.println("🎯 Foco em código limpo, boas práticas e arquitetura");
-        System.out.println("🚀 Sempre aprendendo e evoluindo a cada projeto");
-        System.out.println("🤝 Aberto a colaborações e novos desafios");
-    }
-}
-
+💡 Transformo problemas reais em soluções funcionais
+🎯 Foco em código limpo, boas práticas e arquitetura
+🚀 Sempre aprendendo e evoluindo a cada projeto
+🤝 Aberto a colaborações e novos desafios
 <!-- Divisor -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 🎓 Formação & Cursos
@@ -45,34 +39,44 @@ public class LucasEspindola {
 🚀 Tecnologias & Ferramentas
 💻 Linguagens
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-00D26A?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-00D26A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-00D26A?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 ⚙️ Frameworks & Bibliotecas
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-00D26A?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0D1117" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Angular-00D26A?style=for-the-badge&logo=angular&logoColor=white&labelColor=0D1117" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
 🗄️ Banco de Dados
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-00D26A?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 🛠️ Ferramentas & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-00D26A?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-00D26A?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-00D26A?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Figma-00D26A?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 <!-- Divisor -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 📦 Projetos em Destaque
-Planilhas
-Projeto	Stack	Descrição
-🛒 E-Commerce	Java	Meu projeto favorito! Sistema completo de e-commerce com cadastro de produtos, carrinho e gestão de pedidos.
-📋 Cadastro de Clientes	Java	Sistema para registro e gerenciamento de clientes (nome, CPF, telefone, endereço) com foco em usabilidade.
-💰 Organizador Financeiro	Java	Gerencia receitas, despesas e metas financeiras com interface console clara e validação de dados.
+🛒 E-Commerce
+
+    Stack: Java
+    Meu projeto favorito! Sistema completo de e-commerce com cadastro de produtos, carrinho de compras e gestão de pedidos.
+
+📋 Cadastro de Clientes
+
+    Stack: Java
+    Sistema para registro e gerenciamento de clientes (nome, CPF, telefone, endereço) com foco em usabilidade e validação de dados.
+
+💰 Organizador Financeiro
+
+    Stack: Java
+    Gerencia receitas, despesas e metas financeiras com interface console clara, relatórios e validação de dados.
+
 <!-- Divisor -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 📊 GitHub Stats
