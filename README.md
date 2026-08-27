@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Recife--PE-00D26A?style=for-the-badge" />
   <a href="https://www.linkedin.com/in/lucas-esp%C3%ADndola/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:lucasepind0lademello@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/LucasEspind0la" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasEspind0la&color=00D26A&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es&labelColor=0D1117" />
