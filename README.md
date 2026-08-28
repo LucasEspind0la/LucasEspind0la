@@ -17,7 +17,7 @@
 </p>
 <h2 align="center">Sobre</h2>
 <p align="center">
-  Estudante de engenharia de software construindo aplicações end-to-end com Java, Spring Boot, Angular e TypeScript. Foco em código limpo, arquitetura RESTful e design escalável. Aprofundando conhecimentos em testes, Docker e design de sistemas enquanto busco minha primeira oportunidade na área de tecnologia.
+  Estudante de Analise e Desenvolvimento de Sistemas construindo aplicações end-to-end com Java, Spring Boot, Angular e TypeScript. Foco em código limpo, arquitetura RESTful e design escalável. Aprofundando conhecimentos em testes, Docker e design de sistemas enquanto busco minha primeira oportunidade na área de tecnologia.
 </p>
 <p align="center">
   <strong>Aberto a:</strong> Estágios &middot; Vagas de Desenvolvedor Júnior &middot; Projetos Freelance &middot; Open Source
