@@ -98,17 +98,7 @@
   <li>Design de bancos de dados relacionais e SQL</li>
   <li>Aplicações desktop e web com metodologias estruturadas</li>
 </ul>
-<h2 align="center">Conquistas</h2>
-<table align="center">
-  <thead>
-    <tr><th align="center">Reconhecimento</th><th align="center">Detalhes</th></tr>
-  </thead>
-  <tbody>
-    <tr><td align="center">Certificação Full Stack</td><td align="center">Especialização Java + Angular na Fuctura</td></tr>
-    <tr><td align="center">Diploma Técnico</td><td align="center">Técnico em Desenvolvimento de Sistemas pela ETE</td></tr>
-    <tr><td align="center">Portfólio</td><td align="center">3 aplicações Java end-to-end entregues</td></tr>
-    <tr><td align="center">Aprendizado Contínuo</td><td align="center">Autodidata em testes, Docker e design de sistemas</td></tr>
-  </tbody>
+
 </table>
 <h2 align="center">Certificações</h2>
 <p align="center">
