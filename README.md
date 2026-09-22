@@ -94,8 +94,8 @@
 <p align="center"><strong>ETE</strong> &middot; Concluído</p>
 <p align="center">Formação técnica em desenvolvimento de software, algoritmos, bancos de dados e análise de sistemas.</p>
 <ul>
-  <li>POO com Java e C++</li>
-  <li>Design de bancos de dados relacionais e SQL</li>
+  <li>Python</li>
+  <li>Design de bancos de dados e SQL</li>
   <li>Aplicações desktop e web com metodologias estruturadas</li>
 </ul>
 
