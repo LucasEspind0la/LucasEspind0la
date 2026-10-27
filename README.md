@@ -46,19 +46,7 @@
     <tr><td align="center">Qualidade</td><td align="center">Iniciante</td><td align="center">Testes unitários, testes de integração, TDD</td></tr>
   </tbody>
 </table>
-<h2 align="center">Projetos em Destaque</h2>
-<details>
-  <summary><strong>E-Commerce</strong> &mdash; Java Full Stack</summary>
-  <br>
-  <p>Sistema completo de e-commerce com catálogo de produtos, carrinho de compras, processamento de pedidos e controle de estoque. Construído com arquitetura limpa e foco em manutenibilidade.</p>
-  <table>
-    <tr><td><strong>Stack</strong></td><td>Java, Spring Boot, PostgreSQL</td></tr>
-    <tr><td><strong>Escala</strong></td><td>Monolito, simulação multi-produto</td></tr>
-    <tr><td><strong>Segurança</strong></td><td>Validação de entrada, sanitização de dados</td></tr>
-    <tr><td><strong>Impacto</strong></td><td>Consolidação de full stack e modelagem de domínio</td></tr>
-    <tr><td><strong>Repositório</strong></td><td><a href="https://github.com/LucasEspind0la">github.com/LucasEspind0la</a></td></tr>
-  </table>
-</details>
+
 <details>
   <summary><strong>Cadastro de Clientes</strong> &mdash; Java CRUD</summary>
   <br>
