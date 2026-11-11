@@ -1,103 +1,125 @@
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Lucas%20Esp%C3%ADndola&fontSize=50&fontColor=00D26A&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Angular&descSize=18&descAlignY=55&descColor=C9D1D9" />
-<h1 align="center">
-  
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D1117,100:00D26A&height=200&section=header&text=Lucas%20Esp%C3%ADndola&fontSize=50&fontColor=00D26A&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Angular&descSize=18&descAlignY=55&descColor=C9D1D9" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucasEspind0la&color=00D26A&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/followers/LucasEspind0la?style=for-the-badge&color=00D26A&logo=github&label=Seguidores&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/LucasEspind0la?style=for-the-badge&color=00D26A&logo=github&label=Estrelas&labelColor=0D1117" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas!+%F0%9F%91%8B;Full+Stack+com+Java+e+Angular;C%C3%B3digo+limpo+%E2%80%A2+APIs+REST+%E2%80%A2+Boas+pr%C3%A1ticas" alt="Typing SVG" />
 </p>
-<h2 align="center">Sobre</h2>
-<p align="center">
-  Estudante de Analise e Desenvolvimento de Sistemas construindo aplicações end-to-end com Java, Spring Boot, Angular e TypeScript. Foco em código limpo, arquitetura RESTful e design escalável. Aprofundando conhecimentos em testes, Docker e design de sistemas enquanto busco minha primeira oportunidade na área de tecnologia.
-</p>
-<p align="center">
-  <strong>Aberto a:</strong> Estágios &middot; Vagas de Desenvolvedor Júnior &middot; Projetos Freelance &middot; Open Source
-</p>
-<h2 align="center">Tecnologias</h2>
-<h3 align="center">Linguagens</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts&theme=dark" />
-</p>
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,html,css&theme=dark" />
-</p>
-<h3 align="center">Backend & Banco de Dados</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,postgres&theme=dark" />
-</p>
-<h3 align="center">DevOps & Ferramentas</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,figma&theme=dark" />
-</p>
-<h2 align="center">Expertise Técnica</h2>
-<table align="center">
-  <thead>
-    <tr><th align="center">Domínio</th><th align="center">Nível</th><th align="center">Detalhes</th></tr>
-  </thead>
-  <tbody>
-    <tr><td align="center">Backend</td><td align="center">Intermediário</td><td align="center">Java, Spring Boot, APIs REST, arquitetura em camadas</td></tr>
-    <tr><td align="center">Frontend</td><td align="center">Intermediário</td><td align="center">Angular, TypeScript, design orientado a componentes</td></tr>
-    <tr><td align="center">Banco de Dados</td><td align="center">Intermediário</td><td align="center">PostgreSQL, modelagem relacional, JPA/Hibernate</td></tr>
-    <tr><td align="center">DevOps</td><td align="center">Iniciante</td><td align="center">Docker, Git, Linux, conceitos de CI/CD</td></tr>
-    <tr><td align="center">Qualidade</td><td align="center">Iniciante</td><td align="center">Testes unitários, testes de integração, TDD</td></tr>
-  </tbody>
-</table>
 
-<details>
-  <summary><strong>Cadastro de Clientes</strong> &mdash; Java CRUD</summary>
-  <br>
-  <p>Plataforma de cadastro de clientes com dados sensíveis (nome, CPF, telefone, endereço), validação rigorosa e design CLI focado em usabilidade.</p>
-  <table>
-    <tr><td><strong>Stack</strong></td><td>Java, Console I/O, Persistência em Arquivo</td></tr>
-    <tr><td><strong>Segurança</strong></td><td>Validação de CPF, máscara de telefone, null-safety</td></tr>
-    <tr><td><strong>Impacto</strong></td><td>Demonstra tratamento seguro de dados e UX em CLI</td></tr>
-    <tr><td><strong>Repositório</strong></td><td><a href="https://github.com/LucasEspind0la">github.com/LucasEspind0la</a></td></tr>
-  </table>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=LucasEspind0la&color=00D26A&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/LucasEspind0la?style=for-the-badge&color=00D26A&logo=github&label=Seguidores&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/LucasEspind0la?style=for-the-badge&color=00D26A&logo=github&label=Estrelas&labelColor=0D1117" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Aberto%20a-Est%C3%A1gios%20%C2%B7%20Dev%20J%C3%BAnior%20%C2%B7%20Freelance%20%C2%B7%20Open%20Source-00D26A?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## Sobre
+
+<p align="center">
+Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> construindo aplicações end-to-end com <strong>Java, Spring Boot, Angular e TypeScript</strong>. Foco em código limpo, arquitetura RESTful e design escalável. Aprofundando conhecimentos em testes, Docker e design de sistemas enquanto busco minha primeira oportunidade na área de tecnologia.
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## Tecnologias
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,angular,html,css,spring,postgres,docker,git,linux,figma&theme=dark" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## Expertise Técnica
+
+| Domínio | Nível | Detalhes |
+| --- | :---: | --- |
+| **Backend** | `████████░░` Intermediário | Java, Spring Boot, APIs REST, arquitetura em camadas |
+| **Frontend** | `████████░░` Intermediário | Angular, TypeScript, HTML, CSS, componentes |
+| **Banco de Dados** | `████████░░` Intermediário | PostgreSQL, modelagem relacional, JPA/Hibernate |
+| **DevOps** | `████░░░░░░` Iniciante | Docker, Git, Linux, conceitos de CI/CD |
+| **Qualidade** | `████░░░░░░` Iniciante | Testes unitários, testes de integração, TDD |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## Projetos
+
+<details open>
+<summary><strong>☕&nbsp; Cadastro de Clientes</strong> &mdash; Java CRUD &nbsp;<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></summary>
+<br>
+<p>Plataforma de cadastro de clientes com dados sensíveis (nome, CPF, telefone, endereço), validação rigorosa e design CLI focado em usabilidade.</p>
+
+|  |  |
+| --- | --- |
+| **Stack** | Java, Console I/O, Persistência em Arquivo |
+| **Segurança** | Validação de CPF, máscara de telefone, null-safety |
+| **Impacto** | Tratamento seguro de dados e UX em CLI |
+| **Repositório** | [github.com/LucasEspind0la](https://github.com/LucasEspind0la?tab=repositories) |
+
 </details>
-<details>
-  <summary><strong>Organizador Financeiro</strong> &mdash; Java Console</summary>
-  <br>
-  <p>Gerenciador de finanças pessoais para receitas, despesas e metas de economia, com relatórios e orçamento por categoria.</p>
-  <table>
-    <tr><td><strong>Stack</strong></td><td>Java, Console, Persistência CSV</td></tr>
-    <tr><td><strong>Impacto</strong></td><td>Aplicação de POO para modelar fluxos financeiros reais</td></tr>
-    <tr><td><strong>Repositório</strong></td><td><a href="https://github.com/LucasEspind0la">github.com/LucasEspind0la</a></td></tr>
-  </table>
-</details>
-<h2 align="center">Experiência</h2>
-<h3 align="center">Trainee em Desenvolvimento Full Stack</h3>
-<p align="center"><strong>Fuctura Tecnologia</strong> &middot; 2025 &mdash; 2026</p>
-<p align="center">Especialização intensiva em Java enterprise, Spring Boot, Angular e metodologias ágeis.</p>
-<ul>
-  <li>Arquitetura de APIs REST com Spring Boot (MVC, camadas)</li>
-  <li>SPAs com Angular, RxJS e TypeScript</li>
-  <li>Schemas PostgreSQL com JPA/Hibernate</li>
-  <li>Git workflows e práticas colaborativas</li>
-</ul>
-<h3 align="center">Técnico em Desenvolvimento de Sistemas</h3>
-<p align="center"><strong>ETE</strong> &middot; Concluído</p>
-<p align="center">Formação técnica em desenvolvimento de software, algoritmos, bancos de dados e análise de sistemas.</p>
-<ul>
-  <li>Python</li>
-  <li>Design de bancos de dados e SQL</li>
-  <li>Aplicações desktop e web com metodologias estruturadas</li>
-</ul>
+<br>
+<details open>
+<summary><strong>💰&nbsp; Organizador Financeiro</strong> &mdash; Java Console &nbsp;<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></summary>
+<br>
+<p>Gerenciador de finanças pessoais para receitas, despesas e metas de economia, com relatórios e orçamento por categoria.</p>
 
-</table>
-<h2 align="center">Certificações</h2>
+|  |  |
+| --- | --- |
+| **Stack** | Java, Console, Persistência CSV |
+| **Impacto** | POO aplicada a fluxos financeiros reais |
+| **Repositório** | [github.com/LucasEspind0la](https://github.com/LucasEspind0la?tab=repositories) |
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvimento_Full_Stack_com_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/T%C3%A9cnico_em_Desenvolvimento_de_Sistemas-0077B5?style=for-the-badge&logo=graduationcap&logoColor=white" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasEspind0la&show_icons=true&theme=github_dark&title_color=00D26A&icon_color=00D26A&text_color=C9D1D9&bg_color=0D1117&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasEspind0la&theme=github-dark&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&sideLabels=C9D1D9&dates=C9D1D9&hide_border=true&background=0D1117" />
 </p>
-<h2 align="center">Conectar</h2>
+
 <p align="center">
-  <a href="mailto:lucasepind0lademello@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/lucas-esp%C3%ADndola/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/LucasEspind0la" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasEspind0la&bg_color=0D1117&color=00D26A&line=00D26A&point=FFFFFF&area=true&hide_border=true" width="95%" />
 </p>
-<p align="center"><em>"Primeiro, resolva o problema. Depois, escreva o código."</em></p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&text=&fontSize=0" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## Experiência & Formação
+
+**Trainee em Desenvolvimento Full Stack** — Fuctura Tecnologia · 2025 — 2026
+
+- Arquitetura de APIs REST com Spring Boot (MVC, camadas)
+- SPAs com Angular, RxJS e TypeScript
+- Schemas PostgreSQL com JPA/Hibernate
+- Git workflows e práticas colaborativas
+
+**Técnico em Desenvolvimento de Sistemas** — ETE · Concluído
+
+- Python · Design de bancos de dados e SQL · Aplicações desktop e web
+
+**Análise e Desenvolvimento de Sistemas** — cursando
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## Certificações
+
+<p align="center">
+<img src="https://img.shields.io/badge/Desenvolvimento_Full_Stack_com_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/T%C3%A9cnico_em_Desenvolvimento_de_Sistemas-0077B5?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+</p>
+
+## Conectar
+
+<p align="center">
+<a href="mailto:lucasepind0lademello@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lucas-esp%C3%ADndola/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/LucasEspind0la" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center"><em>"Primeiro, resolva o problema. Depois, escreva o código."</em> — John Johnson</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" />
