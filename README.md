@@ -32,48 +32,6 @@ Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> construindo
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Expertise Técnica
-
-| Domínio | Nível | Detalhes |
-| --- | :---: | --- |
-| **Backend** | `████████░░` Intermediário | Java, Spring Boot, APIs REST, arquitetura em camadas |
-| **Frontend** | `████████░░` Intermediário | Angular, TypeScript, HTML, CSS, componentes |
-| **Banco de Dados** | `████████░░` Intermediário | PostgreSQL, modelagem relacional, JPA/Hibernate |
-| **DevOps** | `████░░░░░░` Iniciante | Docker, Git, Linux, conceitos de CI/CD |
-| **Qualidade** | `████░░░░░░` Iniciante | Testes unitários, testes de integração, TDD |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## Projetos
-
-<details open>
-<summary><strong>☕&nbsp; Cadastro de Clientes</strong> &mdash; Java CRUD &nbsp;<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></summary>
-<br>
-<p>Plataforma de cadastro de clientes com dados sensíveis (nome, CPF, telefone, endereço), validação rigorosa e design CLI focado em usabilidade.</p>
-
-|  |  |
-| --- | --- |
-| **Stack** | Java, Console I/O, Persistência em Arquivo |
-| **Segurança** | Validação de CPF, máscara de telefone, null-safety |
-| **Impacto** | Tratamento seguro de dados e UX em CLI |
-| **Repositório** | [github.com/LucasEspind0la](https://github.com/LucasEspind0la?tab=repositories) |
-
-</details>
-<br>
-<details open>
-<summary><strong>💰&nbsp; Organizador Financeiro</strong> &mdash; Java Console &nbsp;<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></summary>
-<br>
-<p>Gerenciador de finanças pessoais para receitas, despesas e metas de economia, com relatórios e orçamento por categoria.</p>
-
-|  |  |
-| --- | --- |
-| **Stack** | Java, Console, Persistência CSV |
-| **Impacto** | POO aplicada a fluxos financeiros reais |
-| **Repositório** | [github.com/LucasEspind0la](https://github.com/LucasEspind0la?tab=repositories) |
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## GitHub Stats
 
