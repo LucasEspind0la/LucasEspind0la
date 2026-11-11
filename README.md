@@ -47,26 +47,6 @@
   </tbody>
 </table>
 
-<details>
-  <summary><strong>Cadastro de Clientes</strong> &mdash; Java CRUD</summary>
-  <br>
-  <p>Plataforma de cadastro de clientes com dados sensíveis (nome, CPF, telefone, endereço), validação rigorosa e design CLI focado em usabilidade.</p>
-  <table>
-    <tr><td><strong>Stack</strong></td><td>Java, Console I/O, Persistência em Arquivo</td></tr>
-    <tr><td><strong>Segurança</strong></td><td>Validação de CPF, máscara de telefone, null-safety</td></tr>
-    <tr><td><strong>Impacto</strong></td><td>Demonstra tratamento seguro de dados e UX em CLI</td></tr>
-    <tr><td><strong>Repositório</strong></td><td><a href="https://github.com/LucasEspind0la">github.com/LucasEspind0la</a></td></tr>
-  </table>
-</details>
-<details>
-  <summary><strong>Organizador Financeiro</strong> &mdash; Java Console</summary>
-  <br>
-  <p>Gerenciador de finanças pessoais para receitas, despesas e metas de economia, com relatórios e orçamento por categoria.</p>
-  <table>
-    <tr><td><strong>Stack</strong></td><td>Java, Console, Persistência CSV</td></tr>
-    <tr><td><strong>Impacto</strong></td><td>Aplicação de POO para modelar fluxos financeiros reais</td></tr>
-    <tr><td><strong>Repositório</strong></td><td><a href="https://github.com/LucasEspind0la">github.com/LucasEspind0la</a></td></tr>
-  </table>
 </details>
 <h2 align="center">Experiência</h2>
 <h3 align="center">Trainee em Desenvolvimento Full Stack</h3>
