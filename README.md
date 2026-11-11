@@ -58,22 +58,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=2&section=header" />
 
-<!-- ═══════════════════════════ EXPERTISE ═══════════════════════════ -->
-<h2 align="center">⚡ Expertise Técnica</h2>
-
-<div align="center">
-
-| Domínio | Nível | Detalhes |
-|:---:|:---:|:---|
-| **Backend** | ![](https://img.shields.io/badge/Intermediário-00D26A?style=flat-square&labelColor=0D1117) | Java, Spring Boot, APIs REST, arquitetura em camadas |
-| **Frontend** | ![](https://img.shields.io/badge/Intermediário-00D26A?style=flat-square&labelColor=0D1117) | Angular, TypeScript, design orientado a componentes |
-| **Banco de Dados** | ![](https://img.shields.io/badge/Intermediário-00D26A?style=flat-square&labelColor=0D1117) | PostgreSQL, modelagem relacional, JPA/Hibernate |
-| **DevOps** | ![](https://img.shields.io/badge/Iniciante-58A6FF?style=flat-square&labelColor=0D1117) | Docker, Git, Linux, conceitos de CI/CD |
-| **Qualidade** | ![](https://img.shields.io/badge/Iniciante-58A6FF?style=flat-square&labelColor=0D1117) | Testes unitários, testes de integração, TDD |
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=2&section=header" />
 
 <!-- ═══════════════════════════ EXPERIÊNCIA ═══════════════════════════ -->
 <h2 align="center">💼 Experiência</h2>
