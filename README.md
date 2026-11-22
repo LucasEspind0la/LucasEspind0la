@@ -28,7 +28,7 @@
 
 <div align="center">
 
-> **🚀 Aberto a:** &nbsp; Estágios &nbsp;·&nbsp; Vagas de Desenvolvedor Júnior &nbsp;·&nbsp; Projetos Freelance &nbsp;·&nbsp; Open Source
+> **🚀 Aberto a:** &nbsp; Estágios &nbsp;·&nbsp; Vagas de Desenvolvedor Júnior &nbsp;·&nbsp;
 
 </div>
 
